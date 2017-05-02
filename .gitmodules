@@ -18,3 +18,723 @@
 	path = lutece-collab-plugin-helpdesk
 	url = https://github.com/lutece-platform/lutece-collab-plugin-helpdesk
 	branch = develop
+[submodule "hackathon-franceconnect-poc-quotientfamille"]
+	path = hackathon-franceconnect-poc-quotientfamille
+	url = https://github.com/mairie-de-paris/hackathon-franceconnect-poc-quotientfamille
+	branch = develop
+[submodule "hackathon-franceconnect-poc-stationnement"]
+	path = hackathon-franceconnect-poc-stationnement
+	url = https://github.com/mairie-de-paris/hackathon-franceconnect-poc-stationnement
+	branch = develop
+[submodule "gru-library-crmclient"]
+	path = gru-library-crmclient
+	url = https://github.com/lutece-secteur-public/gru-library-crmclient
+	branch = develop
+[submodule "gru-plugin-crmclient"]
+	path = gru-plugin-crmclient
+	url = https://github.com/lutece-secteur-public/gru-plugin-crmclient
+	branch = develop
+[submodule "lutece-tech-library-httpaccess"]
+	path = lutece-tech-library-httpaccess
+	url = https://github.com/lutece-platform/lutece-tech-library-httpaccess
+	branch = develop
+[submodule "gru-library-identitystore"]
+	path = gru-library-identitystore
+	url = https://github.com/lutece-secteur-public/gru-library-identitystore
+	branch = develop
+[submodule "lutece-search-library-lucene"]
+	path = lutece-search-library-lucene
+	url = https://github.com/lutece-platform/lutece-search-library-lucene
+	branch = develop
+[submodule "lutece-test-library-lutece-unit-testing"]
+	path = lutece-test-library-lutece-unit-testing
+	url = https://github.com/lutece-platform/lutece-test-library-lutece-unit-testing
+	branch = develop
+[submodule "lutece-stock-library-stock"]
+	path = lutece-stock-library-stock
+	url = https://github.com/lutece-platform/lutece-stock-library-stock
+	branch = develop
+[submodule "lutece-wf-library-workflow-core"]
+	path = lutece-wf-library-workflow-core
+	url = https://github.com/lutece-platform/lutece-wf-library-workflow-core
+	branch = develop
+[submodule "lutece-stock-module-billetterie-mydashboard"]
+	path = lutece-stock-module-billetterie-mydashboard
+	url = https://github.com/lutece-platform/lutece-stock-module-billetterie-mydashboard
+	branch = develop
+[submodule "lutece-cms-module-calendar-document"]
+	path = lutece-cms-module-calendar-document
+	url = https://github.com/lutece-platform/lutece-cms-module-calendar-document
+	branch = develop
+[submodule "lutece-tech-module-captcha-jcaptcha"]
+	path = lutece-tech-module-captcha-jcaptcha
+	url = https://github.com/lutece-platform/lutece-tech-module-captcha-jcaptcha
+	branch = develop
+[submodule "lutece-tech-module-captcha-recaptcha"]
+	path = lutece-tech-module-captcha-recaptcha
+	url = https://github.com/lutece-platform/lutece-tech-module-captcha-recaptcha
+	branch = develop
+[submodule "lutece-report-module-dbpage-jasper"]
+	path = lutece-report-module-dbpage-jasper
+	url = https://github.com/lutece-platform/lutece-report-module-dbpage-jasper
+	branch = develop
+[submodule "lutece-directory-module-directory-exportfile"]
+	path = lutece-directory-module-directory-exportfile
+	url = https://github.com/lutece-platform/lutece-directory-module-directory-exportfile
+	branch = develop
+[submodule "lutece-directory-module-directory-pdfproducer-archive"]
+	path = lutece-directory-module-directory-pdfproducer-archive
+	url = https://github.com/lutece-platform/lutece-directory-module-directory-pdfproducer-archive
+	branch = develop
+[submodule "lutece-directory-module-directory-pdfproducer"]
+	path = lutece-directory-module-directory-pdfproducer
+	url = https://github.com/lutece-platform/lutece-directory-module-directory-pdfproducer
+	branch = develop
+[submodule "lutece-directory-module-directory-rest"]
+	path = lutece-directory-module-directory-rest
+	url = https://github.com/lutece-platform/lutece-directory-module-directory-rest
+	branch = develop
+[submodule "lutece-document-module-cmis"]
+	path = lutece-document-module-cmis
+	url = https://github.com/lutece-platform/lutece-document-module-cmis
+	branch = develop
+[submodule "lutece-cms-module-document-geoloc"]
+	path = lutece-cms-module-document-geoloc
+	url = https://github.com/lutece-platform/lutece-cms-module-document-geoloc
+	branch = develop
+[submodule "lutece-cms-module-document-import"]
+	path = lutece-cms-module-document-import
+	url = https://github.com/lutece-platform/lutece-cms-module-document-import
+	branch = develop
+[submodule "lutece-search-module-document-solr"]
+	path = lutece-search-module-document-solr
+	url = https://github.com/lutece-platform/lutece-search-module-document-solr
+	branch = develop
+[submodule "lutece-cms-module-documenttocalendar"]
+	path = lutece-cms-module-documenttocalendar
+	url = https://github.com/lutece-platform/lutece-cms-module-documenttocalendar
+	branch = develop
+[submodule "lutece-dev-module-easyrulesbot-sitebuilder"]
+	path = lutece-dev-module-easyrulesbot-sitebuilder
+	url = https://github.com/lutece-platform/lutece-dev-module-easyrulesbot-sitebuilder
+	branch = develop
+[submodule "lutece-elk-module-elasticsearch-head"]
+	path = lutece-elk-module-elasticsearch-head
+	url = https://github.com/lutece-platform/lutece-elk-module-elasticsearch-head
+	branch = develop
+[submodule "lutece-elk-module-elasticsearch-statsfilter"]
+	path = lutece-elk-module-elasticsearch-statsfilter
+	url = https://github.com/lutece-platform/lutece-elk-module-elasticsearch-statsfilter
+	branch = develop
+[submodule "lutece-extends-module-extend-actionbar"]
+	path = lutece-extends-module-extend-actionbar
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-actionbar
+	branch = develop
+[submodule "lutece-extends-module-extend-actionhit"]
+	path = lutece-extends-module-extend-actionhit
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-actionhit
+	branch = develop
+[submodule "lutece-extends-module-extend-comment-extendable"]
+	path = lutece-extends-module-extend-comment-extendable
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-comment-extendable
+	branch = develop
+[submodule "lutece-extends-module-extend-comment"]
+	path = lutece-extends-module-extend-comment
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-comment
+	branch = develop
+[submodule "lutece-extends-module-extend-feedback"]
+	path = lutece-extends-module-extend-feedback
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-feedback
+	branch = develop
+[submodule "lutece-extends-module-extend-follow"]
+	path = lutece-extends-module-extend-follow
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-follow
+	branch = develop
+[submodule "lutece-extends-module-extend-opengraph"]
+	path = lutece-extends-module-extend-opengraph
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-opengraph
+	branch = develop
+[submodule "lutece-extends-module-extend-rating"]
+	path = lutece-extends-module-extend-rating
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-rating
+	branch = develop
+[submodule "lutece-extends-module-extend-statistics"]
+	path = lutece-extends-module-extend-statistics
+	url = https://github.com/lutece-platform/lutece-extends-module-extend-statistics
+	branch = develop
+[submodule "lutece-genattrs-module-genericattributes-gismap"]
+	path = lutece-genattrs-module-genericattributes-gismap
+	url = https://github.com/lutece-platform/lutece-genattrs-module-genericattributes-gismap
+	branch = develop
+[submodule "lutece-collab-module-helpdesk-solr"]
+	path = lutece-collab-module-helpdesk-solr
+	url = https://github.com/lutece-platform/lutece-collab-module-helpdesk-solr
+	branch = develop
+[submodule "lutece-orm-module-jpa-hibernate"]
+	path = lutece-orm-module-jpa-hibernate
+	url = https://github.com/lutece-platform/lutece-orm-module-jpa-hibernate
+	branch = develop
+[submodule "lutece-auth-module-myapps-database"]
+	path = lutece-auth-module-myapps-database
+	url = https://github.com/lutece-platform/lutece-auth-module-myapps-database
+	branch = develop
+[submodule "lutece-auth-module-myapps-wsso"]
+	path = lutece-auth-module-myapps-wsso
+	url = https://github.com/lutece-platform/lutece-auth-module-myapps-wsso
+	branch = develop
+[submodule "lutece-myapps-module-mydashboard-avatar"]
+	path = lutece-myapps-module-mydashboard-avatar
+	url = https://github.com/lutece-platform/lutece-myapps-module-mydashboard-avatar
+	branch = develop
+[submodule "lutece-myapps-module-mydashboard-mylutecedatabase"]
+	path = lutece-myapps-module-mydashboard-mylutecedatabase
+	url = https://github.com/lutece-platform/lutece-myapps-module-mydashboard-mylutecedatabase
+	branch = develop
+[submodule "lutece-auth-module-mylutece-cas"]
+	path = lutece-auth-module-mylutece-cas
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-cas
+	branch = develop
+[submodule "lutece-auth-module-mylutece-database"]
+	path = lutece-auth-module-mylutece-database
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-database
+	branch = develop
+[submodule "lutece-auth-module-mylutece-directory"]
+	path = lutece-auth-module-mylutece-directory
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-directory
+	branch = develop
+[submodule "franceconnect-module-mylutece-franceconnect"]
+	path = franceconnect-module-mylutece-franceconnect
+	url = https://github.com/lutece-secteur-public/franceconnect-module-mylutece-franceconnect
+	branch = develop
+[submodule "lutece-auth-module-mylutece-notification"]
+	path = lutece-auth-module-mylutece-notification
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-notification
+	branch = develop
+[submodule "lutece-auth-module-mylutece-oauth"]
+	path = lutece-auth-module-mylutece-oauth
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-oauth
+	branch = develop
+[submodule "lutece-auth-module-mylutece-openam"]
+	path = lutece-auth-module-mylutece-openam
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-openam
+	branch = develop
+[submodule "lutece-auth-module-mylutece-openid"]
+	path = lutece-auth-module-mylutece-openid
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-openid
+	branch = develop
+[submodule "lutece-auth-module-mylutece-persona"]
+	path = lutece-auth-module-mylutece-persona
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-persona
+	branch = develop
+[submodule "lutece-auth-module-mylutece-rest"]
+	path = lutece-auth-module-mylutece-rest
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-rest
+	branch = develop
+[submodule "lutece-auth-module-mylutece-saml"]
+	path = lutece-auth-module-mylutece-saml
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-saml
+	branch = develop
+[submodule "lutece-auth-module-mylutece-webserver"]
+	path = lutece-auth-module-mylutece-webserver
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-webserver
+	branch = develop
+[submodule "lutece-auth-module-mylutece-websso"]
+	path = lutece-auth-module-mylutece-websso
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-websso
+	branch = develop
+[submodule "lutece-auth-module-mylutece-wssodatabase"]
+	path = lutece-auth-module-mylutece-wssodatabase
+	url = https://github.com/lutece-platform/lutece-auth-module-mylutece-wssodatabase
+	branch = develop
+[submodule "lutece-seo-module-seo-document"]
+	path = lutece-seo-module-seo-document
+	url = https://github.com/lutece-platform/lutece-seo-module-seo-document
+	branch = develop
+[submodule "lutece-seo-module-seo-robots"]
+	path = lutece-seo-module-seo-robots
+	url = https://github.com/lutece-platform/lutece-seo-module-seo-robots
+	branch = develop
+[submodule "lutece-seo-module-seo-suggest"]
+	path = lutece-seo-module-seo-suggest
+	url = https://github.com/lutece-platform/lutece-seo-module-seo-suggest
+	branch = develop
+[submodule "lutece-seo-module-seo-wiki"]
+	path = lutece-seo-module-seo-wiki
+	url = https://github.com/lutece-platform/lutece-seo-module-seo-wiki
+	branch = develop
+[submodule "lutece-stock-module-stock-billetterie"]
+	path = lutece-stock-module-stock-billetterie
+	url = https://github.com/lutece-platform/lutece-stock-module-stock-billetterie
+	branch = develop
+[submodule "lutece-stock-module-stock-recommendation"]
+	path = lutece-stock-module-stock-recommendation
+	url = https://github.com/lutece-platform/lutece-stock-module-stock-recommendation
+	branch = develop
+[submodule "lutece-stock-module-stock-solr"]
+	path = lutece-stock-module-stock-solr
+	url = https://github.com/lutece-platform/lutece-stock-module-stock-solr
+	branch = develop
+[submodule "lutece-stock-module-stock-tickets"]
+	path = lutece-stock-module-stock-tickets
+	url = https://github.com/lutece-platform/lutece-stock-module-stock-tickets
+	branch = develop
+[submodule "lutece-system-module-unittree-profiles"]
+	path = lutece-system-module-unittree-profiles
+	url = https://github.com/lutece-platform/lutece-system-module-unittree-profiles
+	branch = develop
+[submodule "lutece-wf-module-workflow-alert"]
+	path = lutece-wf-module-workflow-alert
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-alert
+	branch = develop
+[submodule "lutece-wf-module-workflow-archive"]
+	path = lutece-wf-module-workflow-archive
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-archive
+	branch = develop
+[submodule "lutece-wf-module-workflow-automatic-assignment"]
+	path = lutece-wf-module-workflow-automatic-assignment
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-automatic-assignment
+	branch = develop
+[submodule "lutece-wf-module-workflow-createpdf"]
+	path = lutece-wf-module-workflow-createpdf
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-createpdf
+	branch = develop
+[submodule "lutece-wf-module-workflow-editrecord"]
+	path = lutece-wf-module-workflow-editrecord
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-editrecord
+	branch = develop
+[submodule "lutece-wf-module-workflow-elasticsearch"]
+	path = lutece-wf-module-workflow-elasticsearch
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-elasticsearch
+	branch = develop
+[submodule "lutece-wf-module-workflow-eudonetdirectory"]
+	path = lutece-wf-module-workflow-eudonetdirectory
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-eudonetdirectory
+	branch = develop
+[submodule "lutece-wf-module-workflow-evaluation"]
+	path = lutece-wf-module-workflow-evaluation
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-evaluation
+	branch = develop
+[submodule "lutece-wf-module-workflow-fillingdirectory"]
+	path = lutece-wf-module-workflow-fillingdirectory
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-fillingdirectory
+	branch = develop
+[submodule "lutece-wf-module-workflow-formincrement"]
+	path = lutece-wf-module-workflow-formincrement
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-formincrement
+	branch = develop
+[submodule "lutece-wf-module-workflow-limit"]
+	path = lutece-wf-module-workflow-limit
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-limit
+	branch = develop
+[submodule "lutece-wf-module-workflow-mappings"]
+	path = lutece-wf-module-workflow-mappings
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-mappings
+	branch = develop
+[submodule "lutece-wf-module-workflow-mylutece-validation"]
+	path = lutece-wf-module-workflow-mylutece-validation
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-mylutece-validation
+	branch = develop
+[submodule "lutece-wf-module-workflow-notifydirectory"]
+	path = lutece-wf-module-workflow-notifydirectory
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-notifydirectory
+	branch = develop
+[submodule "lutece-wf-module-workflow-notifymylutece"]
+	path = lutece-wf-module-workflow-notifymylutece
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-notifymylutece
+	branch = develop
+[submodule "lutece-wf-module-workflow-previewnotification"]
+	path = lutece-wf-module-workflow-previewnotification
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-previewnotification
+	branch = develop
+[submodule "lutece-wf-module-workflow-reassignment"]
+	path = lutece-wf-module-workflow-reassignment
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-reassignment
+	branch = develop
+[submodule "lutece-wf-module-workflow-rest"]
+	path = lutece-wf-module-workflow-rest
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-rest
+	branch = develop
+[submodule "lutece-wf-module-workflow-upload"]
+	path = lutece-wf-module-workflow-upload
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-upload
+	branch = develop
+[submodule "lutece-auth-plugin-adminauthenticationdatabase"]
+	path = lutece-auth-plugin-adminauthenticationdatabase
+	url = https://github.com/lutece-platform/lutece-auth-plugin-adminauthenticationdatabase
+	branch = develop
+[submodule "lutece-auth-plugin-adminauthenticationwsso"]
+	path = lutece-auth-plugin-adminauthenticationwsso
+	url = https://github.com/lutece-platform/lutece-auth-plugin-adminauthenticationwsso
+	branch = develop
+[submodule "lutece-myapps-plugin-adminavatar"]
+	path = lutece-myapps-plugin-adminavatar
+	url = https://github.com/lutece-platform/lutece-myapps-plugin-adminavatar
+	branch = develop
+[submodule "lutece-collab-plugin-adminwall"]
+	path = lutece-collab-plugin-adminwall
+	url = https://github.com/lutece-platform/lutece-collab-plugin-adminwall
+	branch = develop
+[submodule "lutece-apps-plugin-appstore"]
+	path = lutece-apps-plugin-appstore
+	url = https://github.com/lutece-platform/lutece-apps-plugin-appstore
+	branch = develop
+[submodule "lutece-tech-plugin-asynchronousupload"]
+	path = lutece-tech-plugin-asynchronousupload
+	url = https://github.com/lutece-platform/lutece-tech-plugin-asynchronousupload
+	branch = develop
+[submodule "lutece-myapps-plugin-avatar"]
+	path = lutece-myapps-plugin-avatar
+	url = https://github.com/lutece-platform/lutece-myapps-plugin-avatar
+	branch = develop
+[submodule "lutece-myapps-plugin-avatarserver"]
+	path = lutece-myapps-plugin-avatarserver
+	url = https://github.com/lutece-platform/lutece-myapps-plugin-avatarserver
+	branch = develop
+[submodule "lutece-cms-plugin-calendar"]
+	path = lutece-cms-plugin-calendar
+	url = https://github.com/lutece-platform/lutece-cms-plugin-calendar
+	branch = develop
+[submodule "lutece-tech-plugin-captcha"]
+	path = lutece-tech-plugin-captcha
+	url = https://github.com/lutece-platform/lutece-tech-plugin-captcha
+	branch = develop
+[submodule "lutece-cms-plugin-childpages"]
+	path = lutece-cms-plugin-childpages
+	url = https://github.com/lutece-platform/lutece-cms-plugin-childpages
+	branch = develop
+[submodule "lutece-dev-plugin-codewizard"]
+	path = lutece-dev-plugin-codewizard
+	url = https://github.com/lutece-platform/lutece-dev-plugin-codewizard
+	branch = develop
+[submodule "lutece-cms-plugin-contact"]
+	path = lutece-cms-plugin-contact
+	url = https://github.com/lutece-platform/lutece-cms-plugin-contact
+	branch = develop
+[submodule "lutece-cms-plugin-contextinclude"]
+	path = lutece-cms-plugin-contextinclude
+	url = https://github.com/lutece-platform/lutece-cms-plugin-contextinclude
+	branch = develop
+[submodule "lutece-report-plugin-dataviz"]
+	path = lutece-report-plugin-dataviz
+	url = https://github.com/lutece-platform/lutece-report-plugin-dataviz
+	branch = develop
+[submodule "lutece-report-plugin-dbpage"]
+	path = lutece-report-plugin-dbpage
+	url = https://github.com/lutece-platform/lutece-report-plugin-dbpage
+	branch = develop
+[submodule "lutece-directory-plugin-directory"]
+	path = lutece-directory-plugin-directory
+	url = https://github.com/lutece-platform/lutece-directory-plugin-directory
+	branch = develop
+[submodule "lutece-cms-plugin-document"]
+	path = lutece-cms-plugin-document
+	url = https://github.com/lutece-platform/lutece-cms-plugin-document
+	branch = develop
+[submodule "lutece-tech-plugin-easyrulesbot"]
+	path = lutece-tech-plugin-easyrulesbot
+	url = https://github.com/lutece-platform/lutece-tech-plugin-easyrulesbot
+	branch = develop
+[submodule "lutece-elk-plugin-elasticsearch"]
+	path = lutece-elk-plugin-elasticsearch
+	url = https://github.com/lutece-platform/lutece-elk-plugin-elasticsearch
+	branch = develop
+[submodule "lutece-tech-plugin-export-userpreferences"]
+	path = lutece-tech-plugin-export-userpreferences
+	url = https://github.com/lutece-platform/lutece-tech-plugin-export-userpreferences
+	branch = develop
+[submodule "lutece-extends-plugin-extend"]
+	path = lutece-extends-plugin-extend
+	url = https://github.com/lutece-platform/lutece-extends-plugin-extend
+	branch = develop
+[submodule "plugin-fcsample"]
+	path = plugin-fcsample
+	url = https://github.com/mairie-de-paris/plugin-fcsample
+	branch = develop
+[submodule "lutece-auth-plugin-federate-database-franceconnect"]
+	path = lutece-auth-plugin-federate-database-franceconnect
+	url = https://github.com/lutece-platform/lutece-auth-plugin-federate-database-franceconnect
+	branch = develop
+[submodule "lutece-cms-plugin-files2docs"]
+	path = lutece-cms-plugin-files2docs
+	url = https://github.com/lutece-platform/lutece-cms-plugin-files2docs
+	branch = develop
+[submodule "lutece-cms-plugin-folderlisting"]
+	path = lutece-cms-plugin-folderlisting
+	url = https://github.com/lutece-platform/lutece-cms-plugin-folderlisting
+	branch = develop
+[submodule "franceconnect-plugin-franceconnect"]
+	path = franceconnect-plugin-franceconnect
+	url = https://github.com/lutece-secteur-public/franceconnect-plugin-franceconnect
+	branch = develop
+[submodule "lutece-genattrs-plugin-genericattributes"]
+	path = lutece-genattrs-plugin-genericattributes
+	url = https://github.com/lutece-platform/lutece-genattrs-plugin-genericattributes
+	branch = develop
+[submodule "lutece-tech-plugin-gismap"]
+	path = lutece-tech-plugin-gismap
+	url = https://github.com/lutece-platform/lutece-tech-plugin-gismap
+	branch = develop
+[submodule "lutece-tech-plugin-gis"]
+	path = lutece-tech-plugin-gis
+	url = https://github.com/lutece-platform/lutece-tech-plugin-gis
+	branch = develop
+[submodule "lutece-report-plugin-graphite"]
+	path = lutece-report-plugin-graphite
+	url = https://github.com/lutece-platform/lutece-report-plugin-graphite
+	branch = develop
+[submodule "lutece-site-plugin-gtools"]
+	path = lutece-site-plugin-gtools
+	url = https://github.com/lutece-platform/lutece-site-plugin-gtools
+	branch = develop
+[submodule "lutece-cms-plugin-htmldocs"]
+	path = lutece-cms-plugin-htmldocs
+	url = https://github.com/lutece-platform/lutece-cms-plugin-htmldocs
+	branch = develop
+[submodule "lutece-cms-plugin-htmlpage"]
+	path = lutece-cms-plugin-htmlpage
+	url = https://github.com/lutece-platform/lutece-cms-plugin-htmlpage
+	branch = develop
+[submodule "lutece-report-plugin-indicator"]
+	path = lutece-report-plugin-indicator
+	url = https://github.com/lutece-platform/lutece-report-plugin-indicator
+	branch = develop
+[submodule "lutece-multimedia-plugin-insertalbum"]
+	path = lutece-multimedia-plugin-insertalbum
+	url = https://github.com/lutece-platform/lutece-multimedia-plugin-insertalbum
+	branch = develop
+[submodule "lutece-multimedia-plugin-insertmap"]
+	path = lutece-multimedia-plugin-insertmap
+	url = https://github.com/lutece-platform/lutece-multimedia-plugin-insertmap
+	branch = develop
+[submodule "lutece-report-plugin-jasper"]
+	path = lutece-report-plugin-jasper
+	url = https://github.com/lutece-platform/lutece-report-plugin-jasper
+	branch = develop
+[submodule "lutece-system-plugin-jmx"]
+	path = lutece-system-plugin-jmx
+	url = https://github.com/lutece-platform/lutece-system-plugin-jmx
+	branch = develop
+[submodule "lutece-system-plugin-jmxtrans"]
+	path = lutece-system-plugin-jmxtrans
+	url = https://github.com/lutece-platform/lutece-system-plugin-jmxtrans
+	branch = develop
+[submodule "lutece-elk-plugin-kibana"]
+	path = lutece-elk-plugin-kibana
+	url = https://github.com/lutece-platform/lutece-elk-plugin-kibana
+	branch = develop
+[submodule "lutece-tech-plugin-leaflet"]
+	path = lutece-tech-plugin-leaflet
+	url = https://github.com/lutece-platform/lutece-tech-plugin-leaflet
+	branch = develop
+[submodule "lutece-cms-plugin-library"]
+	path = lutece-cms-plugin-library
+	url = https://github.com/lutece-platform/lutece-cms-plugin-library
+	branch = develop
+[submodule "lutece-dev-plugin-lutecetools"]
+	path = lutece-dev-plugin-lutecetools
+	url = https://github.com/lutece-platform/lutece-dev-plugin-lutecetools
+	branch = develop
+[submodule "lutece-cms-plugin-menus"]
+	path = lutece-cms-plugin-menus
+	url = https://github.com/lutece-platform/lutece-cms-plugin-menus
+	branch = develop
+[submodule "lutece-cms-plugin-multimedia"]
+	path = lutece-cms-plugin-multimedia
+	url = https://github.com/lutece-platform/lutece-cms-plugin-multimedia
+	branch = develop
+[submodule "lutece-myapps-plugin-myapps"]
+	path = lutece-myapps-plugin-myapps
+	url = https://github.com/lutece-platform/lutece-myapps-plugin-myapps
+	branch = develop
+[submodule "lutece-myapps-plugin-mydashboard"]
+	path = lutece-myapps-plugin-mydashboard
+	url = https://github.com/lutece-platform/lutece-myapps-plugin-mydashboard
+	branch = develop
+[submodule "lutece-auth-plugin-mylutece"]
+	path = lutece-auth-plugin-mylutece
+	url = https://github.com/lutece-platform/lutece-auth-plugin-mylutece
+	branch = develop
+[submodule "lutece-auth-plugin-mylutecetest"]
+	path = lutece-auth-plugin-mylutecetest
+	url = https://github.com/lutece-platform/lutece-auth-plugin-mylutecetest
+	branch = develop
+[submodule "lutece-cms-plugin-newsletter"]
+	path = lutece-cms-plugin-newsletter
+	url = https://github.com/lutece-platform/lutece-cms-plugin-newsletter
+	branch = develop
+[submodule "lutece-collab-plugin-openagenda"]
+	path = lutece-collab-plugin-openagenda
+	url = https://github.com/lutece-platform/lutece-collab-plugin-openagenda
+	branch = develop
+[submodule "lutece-ecom-plugin-paybox"]
+	path = lutece-ecom-plugin-paybox
+	url = https://github.com/lutece-platform/lutece-ecom-plugin-paybox
+	branch = develop
+[submodule "lutece-multimedia-plugin-phraseanet"]
+	path = lutece-multimedia-plugin-phraseanet
+	url = https://github.com/lutece-platform/lutece-multimedia-plugin-phraseanet
+	branch = develop
+[submodule "lutece-site-plugin-piwik"]
+	path = lutece-site-plugin-piwik
+	url = https://github.com/lutece-platform/lutece-site-plugin-piwik
+	branch = develop
+[submodule "lutece-dev-plugin-pluginwizard"]
+	path = lutece-dev-plugin-pluginwizard
+	url = https://github.com/lutece-platform/lutece-dev-plugin-pluginwizard
+	branch = develop
+[submodule "lutece-tech-plugin-profanity-filter"]
+	path = lutece-tech-plugin-profanity-filter
+	url = https://github.com/lutece-platform/lutece-tech-plugin-profanity-filter
+	branch = develop
+[submodule "lutece-system-plugin-profiles"]
+	path = lutece-system-plugin-profiles
+	url = https://github.com/lutece-platform/lutece-system-plugin-profiles
+	branch = develop
+[submodule "lutece-cms-plugin-quicklinks"]
+	path = lutece-cms-plugin-quicklinks
+	url = https://github.com/lutece-platform/lutece-cms-plugin-quicklinks
+	branch = develop
+[submodule "lutece-apps-plugin-quiz"]
+	path = lutece-apps-plugin-quiz
+	url = https://github.com/lutece-platform/lutece-apps-plugin-quiz
+	branch = develop
+[submodule "lutece-tech-plugin-recommendation"]
+	path = lutece-tech-plugin-recommendation
+	url = https://github.com/lutece-platform/lutece-tech-plugin-recommendation
+	branch = develop
+[submodule "lutece-report-plugin-reportlauncher"]
+	path = lutece-report-plugin-reportlauncher
+	url = https://github.com/lutece-platform/lutece-report-plugin-reportlauncher
+	branch = develop
+[submodule "lutece-tech-plugin-rest"]
+	path = lutece-tech-plugin-rest
+	url = https://github.com/lutece-platform/lutece-tech-plugin-rest
+	branch = develop
+[submodule "lutece-cms-plugin-rss"]
+	path = lutece-cms-plugin-rss
+	url = https://github.com/lutece-platform/lutece-cms-plugin-rss
+	branch = develop
+[submodule "lutece-seo-plugin-searchstats"]
+	path = lutece-seo-plugin-searchstats
+	url = https://github.com/lutece-platform/lutece-seo-plugin-searchstats
+	branch = develop
+[submodule "lutece-auth-plugin-selfregistration"]
+	path = lutece-auth-plugin-selfregistration
+	url = https://github.com/lutece-platform/lutece-auth-plugin-selfregistration
+	branch = develop
+[submodule "lutece-seo-plugin-seo"]
+	path = lutece-seo-plugin-seo
+	url = https://github.com/lutece-platform/lutece-seo-plugin-seo
+	branch = develop
+[submodule "lutece-ecom-plugin-shoppingcart"]
+	path = lutece-ecom-plugin-shoppingcart
+	url = https://github.com/lutece-platform/lutece-ecom-plugin-shoppingcart
+	branch = develop
+[submodule "lutece-site-plugin-sitelabels"]
+	path = lutece-site-plugin-sitelabels
+	url = https://github.com/lutece-platform/lutece-site-plugin-sitelabels
+	branch = develop
+[submodule "lutece-search-plugin-solr"]
+	path = lutece-search-plugin-solr
+	url = https://github.com/lutece-platform/lutece-search-plugin-solr
+	branch = develop
+[submodule "lutece-search-plugin-solrserver"]
+	path = lutece-search-plugin-solrserver
+	url = https://github.com/lutece-platform/lutece-search-plugin-solrserver
+	branch = develop
+[submodule "lutece-search-plugin-sponsoredlinks"]
+	path = lutece-search-plugin-sponsoredlinks
+	url = https://github.com/lutece-platform/lutece-search-plugin-sponsoredlinks
+	branch = develop
+[submodule "lutece-report-plugin-sqlpage"]
+	path = lutece-report-plugin-sqlpage
+	url = https://github.com/lutece-platform/lutece-report-plugin-sqlpage
+	branch = develop
+[submodule "lutece-stock-plugin-stock"]
+	path = lutece-stock-plugin-stock
+	url = https://github.com/lutece-platform/lutece-stock-plugin-stock
+	branch = develop
+[submodule "lutece-cms-plugin-subscribe"]
+	path = lutece-cms-plugin-subscribe
+	url = https://github.com/lutece-platform/lutece-cms-plugin-subscribe
+	branch = develop
+[submodule "lutece-collab-plugin-suggest"]
+	path = lutece-collab-plugin-suggest
+	url = https://github.com/lutece-platform/lutece-collab-plugin-suggest
+	branch = develop
+[submodule "lutece-tech-plugin-swaggerui"]
+	path = lutece-tech-plugin-swaggerui
+	url = https://github.com/lutece-platform/lutece-tech-plugin-swaggerui
+	branch = develop
+[submodule "lutece-system-plugin-systeminfo"]
+	path = lutece-system-plugin-systeminfo
+	url = https://github.com/lutece-platform/lutece-system-plugin-systeminfo
+	branch = develop
+[submodule "lutece-cms-plugin-tagcloud"]
+	path = lutece-cms-plugin-tagcloud
+	url = https://github.com/lutece-platform/lutece-cms-plugin-tagcloud
+	branch = develop
+[submodule "lutece-site-plugin-theme"]
+	path = lutece-site-plugin-theme
+	url = https://github.com/lutece-platform/lutece-site-plugin-theme
+	branch = develop
+[submodule "lutece-system-plugin-threadlogger"]
+	path = lutece-system-plugin-threadlogger
+	url = https://github.com/lutece-platform/lutece-system-plugin-threadlogger
+	branch = develop
+[submodule "lutece-collab-plugin-ticketing"]
+	path = lutece-collab-plugin-ticketing
+	url = https://github.com/lutece-platform/lutece-collab-plugin-ticketing
+	branch = develop
+[submodule "lutece-system-plugin-unittree"]
+	path = lutece-system-plugin-unittree
+	url = https://github.com/lutece-platform/lutece-system-plugin-unittree
+	branch = develop
+[submodule "lutece-system-plugin-updater"]
+	path = lutece-system-plugin-updater
+	url = https://github.com/lutece-platform/lutece-system-plugin-updater
+	branch = develop
+[submodule "lutece-tech-plugin-uploadimage"]
+	path = lutece-tech-plugin-uploadimage
+	url = https://github.com/lutece-platform/lutece-tech-plugin-uploadimage
+	branch = develop
+[submodule "lutece-system-plugin-upload"]
+	path = lutece-system-plugin-upload
+	url = https://github.com/lutece-platform/lutece-system-plugin-upload
+	branch = develop
+[submodule "lutece-cms-plugin-whatsnew"]
+	path = lutece-cms-plugin-whatsnew
+	url = https://github.com/lutece-platform/lutece-cms-plugin-whatsnew
+	branch = develop
+[submodule "lutece-collab-plugin-wiki"]
+	path = lutece-collab-plugin-wiki
+	url = https://github.com/lutece-platform/lutece-collab-plugin-wiki
+	branch = develop
+[submodule "lutece-wf-plugin-workflow"]
+	path = lutece-wf-plugin-workflow
+	url = https://github.com/lutece-platform/lutece-wf-plugin-workflow
+	branch = develop
+[submodule "tools-maven-build-config"]
+	path = tools-maven-build-config
+	url = https://github.com/lutece-platform/tools-maven-build-config
+	branch = develop
+[submodule "lutece-directory-module-directory-gismap"]
+	path = lutece-directory-module-directory-gismap
+	url = https://github.com/lutece-platform/lutece-directory-module-directory-gismap
+	branch = develop
+[submodule "lutece-cms-module-document-gismap"]
+	path = lutece-cms-module-document-gismap
+	url = https://github.com/lutece-platform/lutece-cms-module-document-gismap
+	branch = develop
+[submodule "apipart-plugin-apipart"]
+	path = apipart-plugin-apipart
+	url = https://github.com/lutece-secteur-public/apipart-plugin-apipart
+	branch = develop
+[submodule "apipart-plugin-foyerfiscal"]
+	path = apipart-plugin-foyerfiscal
+	url = https://github.com/lutece-secteur-public/apipart-plugin-foyerfiscal
+	branch = develop
+[submodule "apipart-plugin-quotientfamilial"]
+	path = apipart-plugin-quotientfamilial
+	url = https://github.com/lutece-secteur-public/apipart-plugin-quotientfamilial
+	branch = develop
