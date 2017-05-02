@@ -1,0 +1,20 @@
+[submodule "lutece-core"]
+	path = lutece-core
+	url = https://github.com/lutece-platform/lutece-core
+	branch = develop
+[submodule "lutece-tech-library-signrequest"]
+	path = lutece-tech-library-signrequest
+	url = https://github.com/lutece-platform/lutece-tech-library-signrequest
+	branch = develop
+[submodule "lutece-tech-library-freemarker"]
+	path = lutece-tech-library-freemarker
+	url = https://github.com/lutece-platform/lutece-tech-library-freemarker
+	branch = develop
+[submodule "lutece-cms-plugin-html"]
+	path = lutece-cms-plugin-html
+	url = https://github.com/lutece-platform/lutece-cms-plugin-html
+	branch = develop
+[submodule "lutece-collab-plugin-helpdesk"]
+	path = lutece-collab-plugin-helpdesk
+	url = https://github.com/lutece-platform/lutece-collab-plugin-helpdesk
+	branch = develop
