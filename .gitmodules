@@ -18,14 +18,6 @@
 	path = lutece-collab-plugin-helpdesk
 	url = https://github.com/lutece-platform/lutece-collab-plugin-helpdesk
 	branch = develop
-[submodule "hackathon-franceconnect-poc-quotientfamille"]
-	path = hackathon-franceconnect-poc-quotientfamille
-	url = https://github.com/mairie-de-paris/hackathon-franceconnect-poc-quotientfamille
-	branch = develop
-[submodule "hackathon-franceconnect-poc-stationnement"]
-	path = hackathon-franceconnect-poc-stationnement
-	url = https://github.com/mairie-de-paris/hackathon-franceconnect-poc-stationnement
-	branch = develop
 [submodule "gru-library-crmclient"]
 	path = gru-library-crmclient
 	url = https://github.com/lutece-secteur-public/gru-library-crmclient
