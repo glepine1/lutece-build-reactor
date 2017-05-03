@@ -8,6 +8,91 @@
     <name>Lutece Aggregator</name>
 
     <modules>
+        <module>actes-library-actes</module>
+        <module>actes-module-actes-fast</module>
+        <module>actes-module-actes-s2low</module>
+        <module>actes-plugin-actes</module>
+        <module>comarquage-plugin-dila</module>
+        <module>espacepublic-plugin-dansmarue</module>
+        <module>etatcivil-module-formengine-etatcivil</module>
+        <module>franceconnect-plugin-fcsample</module>
+        <module>gru-library-grubusiness</module>
+        <module>gru-library-notifygru</module>
+        <module>gru-module-appointment-alert</module>
+        <module>gru-module-appointment-filling</module>
+        <module>gru-module-appointmentgru</module>
+        <module>gru-module-appointment-leaflet</module>
+        <module>gru-module-appointment-mydashboard</module>
+        <module>gru-module-appointment-resource</module>
+        <module>gru-module-appointment-solr</module>
+        <module>gru-module-appointment-solrsearchapp</module>
+        <module>gru-module-crm-favorites</module>
+        <module>gru-module-crm-form</module>
+        <module>gru-module-crm-mydashboard</module>
+        <module>gru-module-crm-mydashboard-favorites</module>
+        <module>gru-module-crm-mylutece</module>
+        <module>gru-module-crm-mylutecedatabase</module>
+        <module>gru-module-crm-mylutecedirectory</module>
+        <module>gru-module-crm-rest</module>
+        <module>gru-module-customerprovisioning-identitystore</module>
+        <module>gru-module-customerprovisioning-mylutecedatabase</module>
+        <module>gru-module-customerprovisioning-openam</module>
+        <!-- 
+        [ERROR] The projects in the reactor contain a cyclic reference: Edge between 'Vertex{label='fr.paris.lutece.plugins:module-notifygru-directory:1.2.1-SNAPSHOT'}' and 'Vertex{label='fr.paris.lutece.plugins:module-directory-mappingmanager:1.0.1-SNAPSHOT'}' introduces to cycle in the graph fr.paris.lutece.plugins:module-directory-mappingmanager:1.0.1-SNAPSHOT -> fr.paris.lutece.plugins:module-notifygru-directory:1.2.1-SNAPSHOT -> fr.paris.lutece.plugins:module-directory-mappingmanager:1.0.1-SNAPSHOT -> [Help 1]
+        -->
+        <!-- <module>gru-module-directory-mappingmanager</module> -->
+        <module>gru-module-easyrulesbot-ticketing</module>
+        <module>gru-module-identitystore-fccertifier</module>
+        <module>gru-module-identitystore-grucertifier</module>
+        <module>gru-module-identitystore-indexer</module>
+        <module>gru-module-identitystore-mobilecertifier</module>
+        <module>gru-module-identitystore-openam</module>
+        <module>gru-module-mydashboard-favorites</module>
+        <module>gru-module-mydashboard-gru</module>
+        <module>gru-module-mydashboard-identity</module>
+        <module>gru-module-mydashboard-identity-pocgra</module>
+        <module>gru-module-mydashboard-myaccount</module>
+        <module>gru-module-notifygru-appointment</module>
+        <module>gru-module-notifygru-directory</module>
+        <module>gru-module-notifygru-mapping-manager</module>
+        <module>gru-module-notifygru-ticketing</module>
+        <module>gru-module-seo-crm</module>
+        <module>gru-module-ticketing-facilfamilles</module>
+        <module>gru-module-ticketing-gru</module>
+        <module>gru-module-ticketing-pocgru</module>
+        <module>gru-module-workflow-appointment</module>
+        <module>gru-module-workflow-notifycrm</module>
+        <module>gru-module-workflow-notifycrmnoesb</module>
+        <module>gru-module-workflow-notifygru</module>
+        <module>gru-module-workflow-ticketing</module>
+        <module>gru-plugin-appointment</module>
+        <module>gru-plugin-crm</module>
+        <module>gru-plugin-customerprovisioning</module>
+        <module>gru-plugin-fccertifier</module>
+        <module>gru-plugin-gru</module>
+        <module>gru-plugin-grustoragedb</module>
+        <module>gru-plugin-grustorageelastic</module>
+        <module>gru-plugin-grusupply</module>
+        <module>gru-plugin-identitystore</module>
+        <module>gru-plugin-identitystore-myluteceprovider</module>
+        <module>gru-plugin-identitystore-openamprovider</module>
+        <module>gru-plugin-mobilecertifier</module>
+        <module>lutece-auth-plugin-userws</module>
+        <module>lutece-build-module-workflow-releaser</module>
+        <module>lutece-build-plugin-parsepom</module>
+        <module>lutece-build-plugin-releaser</module>
+        <module>lutece-cms-module-calendar-solr</module>
+        <module>lutece-cms-module-dila-solr</module>
+        <module>lutece-cms-module-myportal-mycrmnotifications</module>
+        <module>lutece-cms-module-myportal-myfavorites</module>
+        <module>lutece-dev-plugin-helloworld</module>
+        <module>lutece-document-module-document-cmis</module>
+        <module>lutece-myapps-plugin-myfiles</module>
+        <module>lutece-tech-library-image</module>
+        <module>lutece-wf-module-workflow-eudonetrestdirectory</module>
+        <module>lutece-wf-module-workflow-form-limit</module>
+        <module>opendata-module-document-ckan</module>
+        <module>urbanisme-plugin-plu</module>
         <module>lutece-cms-plugin-html</module>
         <module>lutece-collab-plugin-helpdesk</module>
         <module>lutece-tech-library-signrequest</module>
@@ -83,7 +168,6 @@
         <module>lutece-directory-module-directory-pdfproducer-archive</module>
         <module>lutece-directory-module-directory-rest</module>
         <module>lutece-directory-plugin-directory</module>
-        <module>lutece-document-module-cmis</module>
         <module>lutece-ecom-plugin-paybox</module>
         <module>lutece-ecom-plugin-shoppingcart</module>
         <module>lutece-elk-module-elasticsearch-head</module>
@@ -179,7 +263,6 @@
         <module>lutece-wf-module-workflow-evaluation</module>
         <module>lutece-wf-module-workflow-fillingdirectory</module>
         <module>lutece-wf-module-workflow-formincrement</module>
-        <module>lutece-wf-module-workflow-limit</module>
         <module>lutece-wf-module-workflow-mappings</module>
         <module>lutece-wf-module-workflow-mylutece-validation</module>
         <module>lutece-wf-module-workflow-notifydirectory</module>
@@ -189,7 +272,6 @@
         <module>lutece-wf-module-workflow-rest</module>
         <module>lutece-wf-module-workflow-upload</module>
         <module>lutece-wf-plugin-workflow</module>
-        <module>plugin-fcsample</module>
         <module>tools-maven-build-config</module>
         <module>lutece-core</module>
         <module>lutece-tech-library-freemarker</module>

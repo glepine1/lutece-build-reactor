@@ -322,10 +322,6 @@
 	path = lutece-wf-module-workflow-formincrement
 	url = https://github.com/lutece-platform/lutece-wf-module-workflow-formincrement
 	branch = develop
-[submodule "lutece-wf-module-workflow-limit"]
-	path = lutece-wf-module-workflow-limit
-	url = https://github.com/lutece-platform/lutece-wf-module-workflow-limit
-	branch = develop
 [submodule "lutece-wf-module-workflow-mappings"]
 	path = lutece-wf-module-workflow-mappings
 	url = https://github.com/lutece-platform/lutece-wf-module-workflow-mappings
@@ -445,10 +441,6 @@
 [submodule "lutece-extends-plugin-extend"]
 	path = lutece-extends-plugin-extend
 	url = https://github.com/lutece-platform/lutece-extends-plugin-extend
-	branch = develop
-[submodule "plugin-fcsample"]
-	path = plugin-fcsample
-	url = https://github.com/mairie-de-paris/plugin-fcsample
 	branch = develop
 [submodule "lutece-auth-plugin-federate-database-franceconnect"]
 	path = lutece-auth-plugin-federate-database-franceconnect
@@ -737,4 +729,336 @@
 [submodule "apipart-plugin-quotientfamilial"]
 	path = apipart-plugin-quotientfamilial
 	url = https://github.com/lutece-secteur-public/apipart-plugin-quotientfamilial
+	branch = develop
+[submodule "lutece-document-module-document-cmis"]
+	path = lutece-document-module-document-cmis
+	url = https://github.com/lutece-platform/lutece-document-module-document-cmis
+	branch = develop
+[submodule "lutece-cms-plugin-dila"]
+	path = lutece-cms-plugin-dila
+	url = https://github.com/lutece-platform/lutece-cms-plugin-dila
+	branch = develop
+[submodule "lutece-cms-module-calendar-solr"]
+	path = lutece-cms-module-calendar-solr
+	url = https://github.com/lutece-platform/lutece-cms-module-calendar-solr
+	branch = develop
+[submodule "lutece-cms-module-dila-solr"]
+	path = lutece-cms-module-dila-solr
+	url = https://github.com/lutece-platform/lutece-cms-module-dila-solr
+	branch = develop
+[submodule "lutece-dev-plugin-helloworld"]
+	path = lutece-dev-plugin-helloworld
+	url = https://github.com/lutece-platform/lutece-dev-plugin-helloworld
+	branch = develop
+[submodule "lutece-wf-module-workflow-form-limit"]
+	path = lutece-wf-module-workflow-form-limit
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-form-limit
+	branch = develop
+[submodule "lutece-build-plugin-parsepom"]
+	path = lutece-build-plugin-parsepom
+	url = https://github.com/lutece-platform/lutece-build-plugin-parsepom
+	branch = develop
+[submodule "lutece-build-plugin-releaser"]
+	path = lutece-build-plugin-releaser
+	url = https://github.com/lutece-platform/lutece-build-plugin-releaser
+	branch = develop
+[submodule "lutece-auth-plugin-userws"]
+	path = lutece-auth-plugin-userws
+	url = https://github.com/lutece-platform/lutece-auth-plugin-userws
+	branch = develop
+[submodule "lutece-build-module-workflow-releaser"]
+	path = lutece-build-module-workflow-releaser
+	url = https://github.com/lutece-platform/lutece-build-module-workflow-releaser
+	branch = develop
+[submodule "lutece-tech-library-image"]
+	path = lutece-tech-library-image
+	url = https://github.com/lutece-platform/lutece-tech-library-image
+	branch = develop
+[submodule "lutece-myapps-plugin-myfiles"]
+	path = lutece-myapps-plugin-myfiles
+	url = https://github.com/lutece-platform/lutece-myapps-plugin-myfiles
+	branch = develop
+[submodule "lutece-cms-module-myportal-myfavorites"]
+	path = lutece-cms-module-myportal-myfavorites
+	url = https://github.com/lutece-platform/lutece-cms-module-myportal-myfavorites
+	branch = develop
+[submodule "lutece-cms-module-myportal-mycrmnotifications"]
+	path = lutece-cms-module-myportal-mycrmnotifications
+	url = https://github.com/lutece-platform/lutece-cms-module-myportal-mycrmnotifications
+	branch = develop
+[submodule "lutece-wf-module-workflow-eudonetrestdirectory"]
+	path = lutece-wf-module-workflow-eudonetrestdirectory
+	url = https://github.com/lutece-platform/lutece-wf-module-workflow-eudonetrestdirectory
+	branch = develop
+[submodule "gru-module-seo-crm"]
+	path = gru-module-seo-crm
+	url = https://github.com/lutece-secteur-public/gru-module-seo-crm
+	branch = develop
+[submodule "gru-plugin-appointment"]
+	path = gru-plugin-appointment
+	url = https://github.com/lutece-secteur-public/gru-plugin-appointment
+	branch = develop
+[submodule "gru-module-workflow-notifycrm"]
+	path = gru-module-workflow-notifycrm
+	url = https://github.com/lutece-secteur-public/gru-module-workflow-notifycrm
+	branch = develop
+[submodule "franceconnect-plugin-fcsample"]
+	path = franceconnect-plugin-fcsample
+	url = https://github.com/lutece-secteur-public/franceconnect-plugin-fcsample
+	branch = develop
+[submodule "gru-plugin-crm"]
+	path = gru-plugin-crm
+	url = https://github.com/lutece-secteur-public/gru-plugin-crm
+	branch = develop
+[submodule "gru-module-crm-rest"]
+	path = gru-module-crm-rest
+	url = https://github.com/lutece-secteur-public/gru-module-crm-rest
+	branch = develop
+[submodule "gru-module-crm-mylutece"]
+	path = gru-module-crm-mylutece
+	url = https://github.com/lutece-secteur-public/gru-module-crm-mylutece
+	branch = develop
+[submodule "gru-module-crm-form"]
+	path = gru-module-crm-form
+	url = https://github.com/lutece-secteur-public/gru-module-crm-form
+	branch = develop
+[submodule "gru-module-crm-mylutecedatabase"]
+	path = gru-module-crm-mylutecedatabase
+	url = https://github.com/lutece-secteur-public/gru-module-crm-mylutecedatabase
+	branch = develop
+[submodule "gru-module-crm-mylutecedirectory"]
+	path = gru-module-crm-mylutecedirectory
+	url = https://github.com/lutece-secteur-public/gru-module-crm-mylutecedirectory
+	branch = develop
+[submodule "comarquage-plugin-dila"]
+	path = comarquage-plugin-dila
+	url = https://github.com/lutece-secteur-public/comarquage-plugin-dila
+	branch = develop
+[submodule "opendata-module-document-ckan"]
+	path = opendata-module-document-ckan
+	url = https://github.com/lutece-secteur-public/opendata-module-document-ckan
+	branch = develop
+[submodule "actes-library-actes"]
+	path = actes-library-actes
+	url = https://github.com/lutece-secteur-public/actes-library-actes
+	branch = develop
+[submodule "actes-plugin-actes"]
+	path = actes-plugin-actes
+	url = https://github.com/lutece-secteur-public/actes-plugin-actes
+	branch = develop
+[submodule "actes-module-actes-fast"]
+	path = actes-module-actes-fast
+	url = https://github.com/lutece-secteur-public/actes-module-actes-fast
+	branch = develop
+[submodule "actes-module-actes-s2low"]
+	path = actes-module-actes-s2low
+	url = https://github.com/lutece-secteur-public/actes-module-actes-s2low
+	branch = develop
+[submodule "etatcivil-module-formengine-etatcivil"]
+	path = etatcivil-module-formengine-etatcivil
+	url = https://github.com/lutece-secteur-public/etatcivil-module-formengine-etatcivil
+	branch = develop
+[submodule "urbanisme-plugin-plu"]
+	path = urbanisme-plugin-plu
+	url = https://github.com/lutece-secteur-public/urbanisme-plugin-plu
+	branch = develop
+[submodule "espacepublic-plugin-dansmarue"]
+	path = espacepublic-plugin-dansmarue
+	url = https://github.com/lutece-secteur-public/espacepublic-plugin-dansmarue
+	branch = develop
+[submodule "gru-module-workflow-appointment"]
+	path = gru-module-workflow-appointment
+	url = https://github.com/lutece-secteur-public/gru-module-workflow-appointment
+	branch = develop
+[submodule "gru-module-appointment-alert"]
+	path = gru-module-appointment-alert
+	url = https://github.com/lutece-secteur-public/gru-module-appointment-alert
+	branch = develop
+[submodule "gru-module-appointment-mydashboard"]
+	path = gru-module-appointment-mydashboard
+	url = https://github.com/lutece-secteur-public/gru-module-appointment-mydashboard
+	branch = develop
+[submodule "gru-module-appointment-resource"]
+	path = gru-module-appointment-resource
+	url = https://github.com/lutece-secteur-public/gru-module-appointment-resource
+	branch = develop
+[submodule "gru-module-mydashboard-gru"]
+	path = gru-module-mydashboard-gru
+	url = https://github.com/lutece-secteur-public/gru-module-mydashboard-gru
+	branch = develop
+[submodule "gru-module-crm-mydashboard"]
+	path = gru-module-crm-mydashboard
+	url = https://github.com/lutece-secteur-public/gru-module-crm-mydashboard
+	branch = develop
+[submodule "gru-module-workflow-notifygru"]
+	path = gru-module-workflow-notifygru
+	url = https://github.com/lutece-secteur-public/gru-module-workflow-notifygru
+	branch = develop
+[submodule "gru-module-notifygru-directory"]
+	path = gru-module-notifygru-directory
+	url = https://github.com/lutece-secteur-public/gru-module-notifygru-directory
+	branch = develop
+[submodule "gru-module-notifygru-appointment"]
+	path = gru-module-notifygru-appointment
+	url = https://github.com/lutece-secteur-public/gru-module-notifygru-appointment
+	branch = develop
+[submodule "gru-plugin-grusupply"]
+	path = gru-plugin-grusupply
+	url = https://github.com/lutece-secteur-public/gru-plugin-grusupply
+	branch = develop
+[submodule "gru-module-ticketing-pocgru"]
+	path = gru-module-ticketing-pocgru
+	url = https://github.com/lutece-secteur-public/gru-module-ticketing-pocgru
+	branch = develop
+[submodule "gru-module-notifygru-ticketing"]
+	path = gru-module-notifygru-ticketing
+	url = https://github.com/lutece-secteur-public/gru-module-notifygru-ticketing
+	branch = develop
+[submodule "gru-module-customerprovisioning-openam"]
+	path = gru-module-customerprovisioning-openam
+	url = https://github.com/lutece-secteur-public/gru-module-customerprovisioning-openam
+	branch = develop
+[submodule "gru-plugin-grustoragedb"]
+	path = gru-plugin-grustoragedb
+	url = https://github.com/lutece-secteur-public/gru-plugin-grustoragedb
+	branch = develop
+[submodule "gru-plugin-grustorageelastic"]
+	path = gru-plugin-grustorageelastic
+	url = https://github.com/lutece-secteur-public/gru-plugin-grustorageelastic
+	branch = develop
+[submodule "gru-module-workflow-ticketing"]
+	path = gru-module-workflow-ticketing
+	url = https://github.com/lutece-secteur-public/gru-module-workflow-ticketing
+	branch = develop
+[submodule "gru-module-ticketing-gru"]
+	path = gru-module-ticketing-gru
+	url = https://github.com/lutece-secteur-public/gru-module-ticketing-gru
+	branch = develop
+[submodule "gru-plugin-customerprovisioning"]
+	path = gru-plugin-customerprovisioning
+	url = https://github.com/lutece-secteur-public/gru-plugin-customerprovisioning
+	branch = develop
+[submodule "gru-plugin-gru"]
+	path = gru-plugin-gru
+	url = https://github.com/lutece-secteur-public/gru-plugin-gru
+	branch = develop
+[submodule "gru-plugin-identitystore"]
+	path = gru-plugin-identitystore
+	url = https://github.com/lutece-secteur-public/gru-plugin-identitystore
+	branch = develop
+[submodule "gru-module-appointmentgru"]
+	path = gru-module-appointmentgru
+	url = https://github.com/lutece-secteur-public/gru-module-appointmentgru
+	branch = develop
+[submodule "gru-module-notifygru-mapping-manager"]
+	path = gru-module-notifygru-mapping-manager
+	url = https://github.com/lutece-secteur-public/gru-module-notifygru-mapping-manager
+	branch = develop
+[submodule "gru-library-notifygru"]
+	path = gru-library-notifygru
+	url = https://github.com/lutece-secteur-public/gru-library-notifygru
+	branch = develop
+[submodule "gru-module-identitystore-mobilecertifier"]
+	path = gru-module-identitystore-mobilecertifier
+	url = https://github.com/lutece-secteur-public/gru-module-identitystore-mobilecertifier
+	branch = develop
+[submodule "gru-module-customerprovisioning-mylutecedatabase"]
+	path = gru-module-customerprovisioning-mylutecedatabase
+	url = https://github.com/lutece-secteur-public/gru-module-customerprovisioning-mylutecedatabase
+	branch = develop
+[submodule "gru-module-mydashboard-identity"]
+	path = gru-module-mydashboard-identity
+	url = https://github.com/lutece-secteur-public/gru-module-mydashboard-identity
+	branch = develop
+[submodule "gru-module-easyrulesbot-ticketing"]
+	path = gru-module-easyrulesbot-ticketing
+	url = https://github.com/lutece-secteur-public/gru-module-easyrulesbot-ticketing
+	branch = develop
+[submodule "gru-module-appointment-solrsearchapp"]
+	path = gru-module-appointment-solrsearchapp
+	url = https://github.com/lutece-secteur-public/gru-module-appointment-solrsearchapp
+	branch = develop
+[submodule "gru-module-appointment-solr"]
+	path = gru-module-appointment-solr
+	url = https://github.com/lutece-secteur-public/gru-module-appointment-solr
+	branch = develop
+[submodule "gru-module-appointment-leaflet"]
+	path = gru-module-appointment-leaflet
+	url = https://github.com/lutece-secteur-public/gru-module-appointment-leaflet
+	branch = develop
+[submodule "gru-module-customerprovisioning-identitystore"]
+	path = gru-module-customerprovisioning-identitystore
+	url = https://github.com/lutece-secteur-public/gru-module-customerprovisioning-identitystore
+	branch = develop
+[submodule "gru-module-identitystore-indexer"]
+	path = gru-module-identitystore-indexer
+	url = https://github.com/lutece-secteur-public/gru-module-identitystore-indexer
+	branch = develop
+[submodule "gru-module-directory-mappingmanager"]
+	path = gru-module-directory-mappingmanager
+	url = https://github.com/lutece-secteur-public/gru-module-directory-mappingmanager
+	branch = develop
+[submodule "gru-module-appointment-filling"]
+	path = gru-module-appointment-filling
+	url = https://github.com/lutece-secteur-public/gru-module-appointment-filling
+	branch = develop
+[submodule "gru-library-grubusiness"]
+	path = gru-library-grubusiness
+	url = https://github.com/lutece-secteur-public/gru-library-grubusiness
+	branch = develop
+[submodule "gru-module-identitystore-openam"]
+	path = gru-module-identitystore-openam
+	url = https://github.com/lutece-secteur-public/gru-module-identitystore-openam
+	branch = develop
+[submodule "gru-module-crm-mydashboard-favorites"]
+	path = gru-module-crm-mydashboard-favorites
+	url = https://github.com/lutece-secteur-public/gru-module-crm-mydashboard-favorites
+	branch = develop
+[submodule "gru-module-mydashboard-myaccount"]
+	path = gru-module-mydashboard-myaccount
+	url = https://github.com/lutece-secteur-public/gru-module-mydashboard-myaccount
+	branch = develop
+[submodule "gru-module-ticketing-facilfamilles"]
+	path = gru-module-ticketing-facilfamilles
+	url = https://github.com/lutece-secteur-public/gru-module-ticketing-facilfamilles
+	branch = develop
+[submodule "gru-module-mydashboard-favorites"]
+	path = gru-module-mydashboard-favorites
+	url = https://github.com/lutece-secteur-public/gru-module-mydashboard-favorites
+	branch = develop
+[submodule "gru-module-crm-favorites"]
+	path = gru-module-crm-favorites
+	url = https://github.com/lutece-secteur-public/gru-module-crm-favorites
+	branch = develop
+[submodule "gru-plugin-identitystore-openamprovider"]
+	path = gru-plugin-identitystore-openamprovider
+	url = https://github.com/lutece-secteur-public/gru-plugin-identitystore-openamprovider
+	branch = develop
+[submodule "gru-module-workflow-notifycrmnoesb"]
+	path = gru-module-workflow-notifycrmnoesb
+	url = https://github.com/lutece-secteur-public/gru-module-workflow-notifycrmnoesb
+	branch = develop
+[submodule "gru-module-identitystore-fccertifier"]
+	path = gru-module-identitystore-fccertifier
+	url = https://github.com/lutece-secteur-public/gru-module-identitystore-fccertifier
+	branch = develop
+[submodule "gru-plugin-fccertifier"]
+	path = gru-plugin-fccertifier
+	url = https://github.com/lutece-secteur-public/gru-plugin-fccertifier
+	branch = develop
+[submodule "gru-module-identitystore-grucertifier"]
+	path = gru-module-identitystore-grucertifier
+	url = https://github.com/lutece-secteur-public/gru-module-identitystore-grucertifier
+	branch = develop
+[submodule "gru-plugin-mobilecertifier"]
+	path = gru-plugin-mobilecertifier
+	url = https://github.com/lutece-secteur-public/gru-plugin-mobilecertifier
+	branch = develop
+[submodule "gru-module-mydashboard-identity-pocgra"]
+	path = gru-module-mydashboard-identity-pocgra
+	url = https://github.com/lutece-secteur-public/gru-module-mydashboard-identity-pocgra
+	branch = develop
+[submodule "gru-plugin-identitystore-myluteceprovider"]
+	path = gru-plugin-identitystore-myluteceprovider
+	url = https://github.com/lutece-secteur-public/gru-plugin-identitystore-myluteceprovider
 	branch = develop
