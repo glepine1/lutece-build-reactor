@@ -104,8 +104,6 @@
         <module>gru-library-crmclient</module>
         <module>gru-library-identitystore</module>
         <module>gru-plugin-crmclient</module>
-        <module>hackathon-franceconnect-poc-quotientfamille</module>
-        <module>hackathon-franceconnect-poc-stationnement</module>
         <module>lutece-apps-plugin-appstore</module>
         <module>lutece-apps-plugin-quiz</module>
         <module>lutece-auth-module-myapps-database</module>
